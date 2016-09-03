@@ -1,8 +1,8 @@
 # Site settings
-title: Underwater 3D Visualization System
-email: your-email@domain.com
-url: https://example.github.io
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+title: 3D Viz Rig
+email: ucsde4e@googlegroups.com
+url: http://e4e.ucsd.edu/3d-visualization-system
+description: "Underwater 3D Visualization System developed by UCSD Engineers for Exploration"
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
@@ -17,7 +17,7 @@ social:
   - title: twitter
     url: https://twitter.com/UCSDE4E
   - title: github
-    url: https://github.com/UCSDE4E
+    url: https://github.com/UCSD-E4E
 
 # Build settings
 markdown: kramdown
